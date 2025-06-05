@@ -8,9 +8,11 @@ Project contains:
 - Work experience
 - Education
 - Link to GitHub page
+- Favicon icon 
 
 # How to access page:
 - Provide link to GH pages deployment here:
 
 # Resources and Assets:
 Github logo: https://github.com/logos
+Favicon: https://icons8.com/icons/set/favicon
