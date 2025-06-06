@@ -11,7 +11,7 @@ Project contains:
 - Favicon icon 
 
 # How to access page:
-- Provide link to GH pages deployment here:
+- The site itself can be accessed via: https://jjhh17.github.io/single-page-cv/
 
 # Resources and Assets:
 Github logo: https://github.com/logos
